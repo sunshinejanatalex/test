@@ -1,0 +1,22 @@
+NETWORKS IN THE CLOUDS
+
+VPC- Global, private 
+
+networking must-haves
+
+objectives                              gcp solutions
+internal project communication            interrnal IP addresses
+external communication with the rest
+of the world                              external IPs
+
+Traffic sent to a given ip address
+
+
+
+PROJECTS AND VPCS
+- VPCS are gcp resources
+-Each must exist inside a project
+-Default vpx pre created in each project
+-can create additional VPCs
+ 
+VIRTUAL PRIVATE CLOUD
